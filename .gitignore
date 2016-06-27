@@ -1,0 +1,3 @@
+*.retry
+blog/public/*
+blog/db.json
